@@ -8,6 +8,7 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 
     xcode-select — install
     
+<br>
 <h4> Cloning repo</h>
     
     git clone .git
