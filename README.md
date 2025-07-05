@@ -1,4 +1,5 @@
 # Distance-Estimation-Wifi-Bluetooth-Devices(For Mac Users Only)
+
 This will let you see the nearby wifi and bluetooth devices and try to estimate the distance also.
 
 ## Steps to go 🪜
@@ -7,7 +8,7 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 <p> You should have downloaded xcode from App Store and run this in terminal  </p>
 
     xcode-select — install
-    
+
 <br>
 <h4>#Cloning repo</h4>
     
@@ -17,16 +18,10 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 <h4>#To scan wifi and bluetooth devices follow as:</h4>
 <h4>・For wifi</h4>
 
-    cd scan_wifi
-<br>
-
     swift scan_wifi.swift
 
 <h4>・For Bluetooth devices</h4>
 
-    cd scan_bluetooth
-<br>
-
     swift scan_bluetooth.swift
-    
-    
+
+<p>Author: Sundaram kumar Yadav</p>
