@@ -3,7 +3,7 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 
 ## Steps to go 🪜
 
-<h5>∙For Mac Users</h5>
+<h4>∙For Mac Users</h4>
 <p> You should have downloaded xcode from App Store and run this in terminal  </p>
 
     xcode-select — install
@@ -14,12 +14,12 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 
 <br>
 <p>To scan wifi and bluetooth devices follow as:</p>
-<p>For wifi</p>
+<h4>For wifi</h4>
 
     cd scan_wifi
     swift scan_wifi.swift
 
-<p>For Bluetooth devices</p>
+<h4>For Bluetooth devices</h4>
 
     cd scan_bluetooth
     swift scan_bluetooth.swift
