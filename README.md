@@ -12,12 +12,12 @@ This will let you see the nearby wifi and bluetooth devices and try to estimate 
 
 ## Usage 
 <p>To scan wifi and bluetooth devices follow as:<p>
-<h4>・For wifi devices</h4>
+<p>・For wifi devices</p>
 
     cd Distance_Estimation_Wifi_Bluetooth_Devices
     swift scan_wifi.swift
 
-<h4>・For Bluetooth devices</h4>
+<p>・For Bluetooth devices</p>
 
     cd Distance_Estimation_Wifi_Bluetooth_Devices
     swift scan_bluetooth.swift
