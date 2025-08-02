@@ -1,5 +1,5 @@
 # Distance Estimation Wirless Devices:
-[![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/platform-MacOS-lightgrey.svg)](https://www.apple.com/macos/)
 
 This will let you see the nearby wifi and bluetooth devices and try to estimate the distance also.
 
